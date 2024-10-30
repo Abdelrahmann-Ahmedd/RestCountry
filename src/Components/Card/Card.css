@@ -1,0 +1,8 @@
+.card {
+    width: 18rem;
+    cursor: pointer;
+}
+
+.card img {
+    height: 180px;
+}

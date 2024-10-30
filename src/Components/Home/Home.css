@@ -1,0 +1,16 @@
+.sp {
+    inset: 0;
+}
+.row {
+    padding: 70px;
+}
+
+@media only screen and (max-width: 767px) {
+    .card {
+        margin: auto;
+    }
+    .row {
+        padding: 0px;
+        padding-top: 50px;
+    }
+}
